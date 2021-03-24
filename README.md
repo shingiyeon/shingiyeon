@@ -1,4 +1,4 @@
-### Hi there 👋
+### 영업 준비중 👋
 
 <!--
 **shingiyeon/shingiyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![nuclear852's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=nuclear852)
+
