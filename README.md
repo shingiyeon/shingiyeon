@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![nuclear852's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=nuclear852)
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=nuclear852)
