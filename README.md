@@ -45,6 +45,10 @@
 - **Giyeon Shin**, Hojung Nam, [Protein Secondary Structure Prediction using Protein Sequence Information and Deep Learning Method](https://github.com/shingiyeon/paper/blob/main/%EC%8B%A0%EA%B8%B0%EC%97%B0_Protein%20Secondary%20Structure%20Prediction%20using%20Protein%20Sequence%20Information%20and%20Deep%20Learning%20Method.pdf), Thesis for Bachelor's Degree, GIST, 2017.
 
 ### 📝 Project
+**LG CNS SmartService Team**
+- [LGE Enterprise Member Platform Advancement SI Suggestion] (2022.08 ~)
+- [LGE SmartWorld Software Management] (2022-04 ~ 2022.08) 
+
 **CJ OliveNetworks AI Core Center**
 - [Kaggle: 미식 축구 분야 Object Tracking 연구](https://www.kaggle.com/competitions/nfl-health-and-safety-helmet-assignment)
 
