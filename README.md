@@ -46,8 +46,9 @@
 
 ### 📝 Project
 **LG CNS SmartService Team**
-- [LGE Enterprise Member Platform Advancement SI Suggestion] (2022.08 ~)
-- [LGE SmartWorld Software Management] (2022-04 ~ 2022.08) 
+- [LGE Intellytics 자재수요예측 운영: Data Analysist] (2022.09 ~)
+- [LGE Enterprise Member Platform Advancement SI Suggestion: 분석/설계자] (2022.08 ~ 2022.09)
+- [LGE SmartWorld Software Management: Part Leader] (2022-04 ~ 2022.08) 
 
 **CJ OliveNetworks AI Core Center**
 - [Kaggle: 미식 축구 분야 Object Tracking 연구](https://www.kaggle.com/competitions/nfl-health-and-safety-helmet-assignment)
