@@ -45,19 +45,14 @@
 - **Giyeon Shin**, Hojung Nam, [Protein Secondary Structure Prediction using Protein Sequence Information and Deep Learning Method](https://github.com/shingiyeon/paper/blob/main/%EC%8B%A0%EA%B8%B0%EC%97%B0_Protein%20Secondary%20Structure%20Prediction%20using%20Protein%20Sequence%20Information%20and%20Deep%20Learning%20Method.pdf), Thesis for Bachelor's Degree, GIST, 2017.
 
 ### 📝 Project
-**LG CNS SmartService Team**
-<br>
+**LG CNS SmartService Team**  
 - [LGE Intellytics 자재수요예측 운영: Data Analysist] (2022.09 ~)
-- [LGE Enterprise Member Platform Advancement SI Suggestion: 분석/설계자] (2022.08 ~ 2022.09)
-<p>
+- [LGE Enterprise Member Platform Advancement SI Suggestion: 분석/설계자] (2022.08 ~ 2022.09)  
 LG전자의 전사회원플랫폼은 LG전자 앱부터, ThinQ, SmartWorld, SmartTV 등 다양한 서비스들의 회원 관리 시스템을 담당하는 플랫폼입니다. 허나, LG전자의 가전 제품의 매출이 급상승하고, 전자 서비스들을 이용하는 회원들이 급증함에 따라 노후화된 아키텍쳐 변경이 필수적이였고, 전사회원관리팀의 요구사항을 반영하기에도 시스템이 노후화 되었습니다.
 따라서 해당 프로젝트에서 고객의 요구사항을 파악하고 이를 아키텍쳐 고도화에 포함되도록 분석 및 조사를 하는 역할을 맡았으며, 그 외에도 기존 시스템 유지보수 팀의 CSR 파악 및 공수 파악 등 다양한 데이터를 조사하는 작업을 맡았습니다.
-</p>
-- [LGE SmartWorld Software Management: Part Leader] (2022-04 ~ 2022.08) 
-<p>
+- [LGE SmartWorld Software Management: Part Leader] (2022-04 ~ 2022.08)  
 LG전자 SmartWorld는 기존 LG전자 핸드폰 사용자를 위한 스토어이며, LG전자 ThinQStore는 ThinQ에서 이용가능한 LG전자 제품의 부속품들을 구매할 수 있는 스토어입니다.
 스토어의 원할한 운영을 위하여 고객으로부터 들어오는 요구사항을 받아 이를 파악하고 업무를 배분하는 Part Leader 성격의 역할을 맡았으며, 중점젖그오는 검색 엔진 관리 / 장애 확인 / 에러 로그 개발 / 서버 관리 / 배포 / 라이브러리 관리와 같은 역할을 맡았습니다.
-</p>
 
 <br>
 **CJ OliveNetworks AI Core Center**
